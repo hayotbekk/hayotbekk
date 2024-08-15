@@ -1,4 +1,4 @@
-## Hi there <a href="https://t.me/https://t.me/A_Hayotbekk" target="_blank">Hayot</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
+## Hi there,I`m <a href="https://t.me/https://t.me/A_Hayotbekk" target="_blank">Hayot</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
  <br>
  
  I´m Frontend developer:
