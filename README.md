@@ -91,5 +91,9 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hayotbekk&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayotbekk&layout=compact&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hayotbekk&theme=gruvbox" />  
+<br>
+
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayotbekk&theme=gruvbox&bg_color=20232a&hide_border=true" width="100%"/>
 
 
